@@ -1,2 +1,2 @@
 =Downloads=
-[https://code.google.com/p/testda/svn/downloads/Da-Test_Logo.rar logo]
+[https://testda.googlecode.com/svn/downloads/Da-Test_Logo.rar logo]
