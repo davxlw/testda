@@ -1,4 +1,6 @@
 #summary Sidebar  
  * Index
   * [test01 First page]
+   * [test01#Title_1 Title 1]
+   * [test01#Title_2 Title 2]
   * [test02 Second page]
