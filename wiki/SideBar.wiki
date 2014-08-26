@@ -1,4 +1,3 @@
-#summary Sidebar  
   * Index
    * [test01 First page]
    * [test02 Second page]
