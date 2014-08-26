@@ -1,5 +1,5 @@
 #summary page 1
-#labels docs
+#labels docs,Featured
 #sidebar SideBar
 
 =Test 01=
