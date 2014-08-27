@@ -1,4 +1,7 @@
-#labels Featured
+#summary Index
+#labels div
+#sidebar SideBar
+
 =Downloads=
 [https://testda.googlecode.com/svn/downloads/Da-Test_Logo.rar logo]
 

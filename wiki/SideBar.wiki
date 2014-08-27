@@ -1,6 +1,12 @@
 #summary Sidebar  
- * Index
-  * [test01 First page]
-   * [test01#Title_1 Title 1]
-   * [test01#Title_2 Title 2]
-  * [test02 Second page]
+
+
+ * [Idex Index]
+ * [test01 First page]
+  * [test01#Title_1 Title 1]
+  * [test01#Title_2 Title 2]
+  * [test01#Title_3 Title 3]
+  * [test01#Title_4 Title 4]
+ * [test02 Second page]
+  * [https://code.google.com/p/openxvario/wiki/BuildInstructions OXS alti/vario]
+  * [https://code.google.com/p/openxvario/wiki/CurrentSensorModules Current sensor]
