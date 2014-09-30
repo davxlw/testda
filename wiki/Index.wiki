@@ -17,3 +17,5 @@
  is the documentation to both understand the different OXS options and set them easily with the OXS Configurator.
  
 </wiki:comment>
+
+Local repo modif.
