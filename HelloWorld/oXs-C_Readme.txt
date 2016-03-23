@@ -26,7 +26,7 @@ You'll find .ico and .svg icons to make a nice shortcut if you want :)
 
 Change log:
 
-v3.1
+v3.3
 - Supports OpenXsensor v3.0
 - ...
 
